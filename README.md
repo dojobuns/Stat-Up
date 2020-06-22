@@ -43,5 +43,6 @@ In Statup, users will be able to:
 - [ ] have the same compare functionality of a single game
 - [ ] able to have different filter options
 
-
+# Wireframe
+![image of wireframe](https://github.com/dojobuns/Stat-Up/blob/master/images/statup-wireframe.png)
  
